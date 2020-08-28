@@ -34,7 +34,7 @@
 
 /* CHAT SIDEBAR */
 
-.header-2o-2hj, .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .overflow-WK9Ogt, .overflow-WK9Ogt, .size16-1P40sf {
+.header-2o-2hj, .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .overflow-WK9Ogt, .overflow-WK9Ogt, .text-2e2ZyG, .name-IbjUBS{
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }
 
@@ -50,9 +50,13 @@
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }
 
+/*CHAT TITLE BAR*/ 
+.icon-22AiRD, .icon-22AiRD, .size16-1P40sf {
+    animation: rainbow-is-pog 10s ease-in-out infinite; 
+}
 
 /*SETTINGS*/
-.themed-OHr7kt {
+.themed-OHr7kt, .size14-e6ZScH  {
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }
 
@@ -62,5 +66,7 @@
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }
 
-
-
+/* BETTER DISCORD TABS */
+.ui-form-title {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
