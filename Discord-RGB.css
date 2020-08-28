@@ -1,0 +1,66 @@
+
+
+.nameTag-2IFDfL, .nameTag-m8r81H, .username-2b1r56, .username-3gJmXY, .discriminator-xUhQkU, .headerTagNoNickname-ENx6no, .headerTag-2pZJzA, .size14-3iUx6q, .size16-14cGz5, .nameTag-m8r81H {
+ animation: rainbow-is-pog 10s ease-in-out infinite; 
+}
+
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+}
+
+
+
+
+@keyframes rainbow-bar {
+    from {background-color: #6666ff;}
+    10% {background-color: #0099ff;}
+    50% {background-color: #00ff00;}
+    75% {background-color: #ff3399;}
+    100% {background-color: #6666ff;}
+}
+
+/* BOTTOM LEFT MODAL RGB*/
+.powercord-spotify .spotify-seek-bar-progress {
+    animation: rainbow-bar 10s ease-in-out infinite; 
+}
+
+.title-eS5yk3, .button-14-BFJ, .subtext-3CDbHg, .customStatus-3tC2ig, .hovered-d5PMVU, .usernameContainer-1fp4nu .title-eS5yk3, .powercord-spotify .spotify-buttons .contents-18-Yxp, .button-38aScr {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+/* CHAT SIDEBAR */
+
+.header-2o-2hj, .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .overflow-WK9Ogt, .overflow-WK9Ogt, .size16-1P40sf {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+/* SERVER SIDEBAR */
+/* {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+/*CHAT*/
+.anchorUnderlineOnHover-2ESHQB {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+/*SETTINGS*/
+.themed-OHr7kt {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+/* FIX RGB DESYNC WITH THESE */
+/*.actionIcon-2Hi9ZG, .numberBadge-2s8kKX,*/ .base-PmTxvP {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+
