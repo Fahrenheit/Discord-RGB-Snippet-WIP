@@ -27,7 +27,7 @@
 }
 
 /* CHAT SIDEBAR */
- .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .close-relY5R{
+ .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .close-relY5R, .flowerStar-1GeTsn, .button-1w5pas{
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 .unread-3zKkbm, .liveSmall-1dy2uA{
@@ -107,6 +107,6 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
 
 
 /* FIX RGB DESYNC WITH THESE */
- /*.numberBadge-2s8kKX, .base-PmTxvP,*/ .actionIcon-2Hi9ZG {
+ /*.numberBadge-2s8kKX, .base-PmTxvP, .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
-}
+}*/
