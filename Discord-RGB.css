@@ -95,6 +95,11 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
+/* POPOUTS */
+.iconContainer-2-XQPY, .label-22pbtT{
+    animation: rainbow-rgb 10s ease-in-out infinite;
+}
+
 /* FIX RGB DESYNC WITH THESE */
  /*.numberBadge-2s8kKX, .base-PmTxvP,*/ .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
