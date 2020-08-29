@@ -85,14 +85,19 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
-/* SEARCH MAGNIFIYING GLASS ICON */
-.da-icon {
+/* SEARCH */
+.da-icon, .public-DraftEditorPlaceholder-root, .public-DraftEditorPlaceholder-hasFocus, .public-DraftStyleDefault-block {
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
 /* BOT BADGE */
-.da-botTag, .botTag{
+ .da-botTag, .botTag{
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
+}
+
+/* EMBED TEXT */
+ .embedFieldName-NFrena, .embedFooterText-28V_Wb {
+    animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
 /* POPOUTS */
