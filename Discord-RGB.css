@@ -105,6 +105,11 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
+/* SHORTCUT HELP MENU */
+ .da-modalSubtitle, .da-content,  .da-keybindDescription  {
+    animation: rainbow-rgb 10s ease-in-out infinite;
+}
+
 /* FIX RGB DESYNC WITH THESE */
  /*.numberBadge-2s8kKX, .base-PmTxvP,*/ .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
