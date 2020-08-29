@@ -34,8 +34,11 @@
 
 /* CHAT SIDEBAR */
 
-.header-2o-2hj, .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .overflow-WK9Ogt, .overflow-WK9Ogt, .text-2e2ZyG, .name-IbjUBS, .close-relY5R, .message-3SOT5P{
+.header-2o-2hj, .arrow-gKvcEx, .icon-WnO6o2, .addButtonIcon-3u-3Hu, .icon-1_QxNX, .button-38aScr, .overflow-WK9Ogt, .overflow-WK9Ogt, .name-IbjUBS, .close-relY5R, .message-3SOT5P{
     animation: rainbow-rgb 10s ease-in-out infinite;
+}
+.unread-3zKkbm{
+    animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
 
@@ -43,7 +46,7 @@
 /* {
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }*/
- .guildSeparator-3s64Iy {
+ .guildSeparator-3s64Iy, .active-1SSsBb {
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
@@ -91,5 +94,4 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
 /*FIX ME*/
 .unreadPillCapStroke-7rkHbg, .unreadPill-2HyYtt,   .divider-3_HH5L, .beforeGroup-1rH1F0, .divider-JfaTT5, .isUnread-3Ef-o9, .new-messages-bar{
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
-  
 }
