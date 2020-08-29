@@ -101,7 +101,7 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
 /* POPOUTS */
-.iconContainer-2-XQPY, .label-22pbtT, .button-1ZiXG9{
+.iconContainer-2-XQPY, .label-22pbtT, .button-1ZiXG9, .attachPopoutRow-3iqqu1{
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
@@ -114,4 +114,3 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
 .unreadPillCapStroke-7rkHbg, .unreadPill-2HyYtt,   .divider-3_HH5L, .beforeGroup-1rH1F0, .divider-JfaTT5, .isUnread-3Ef-o9, .new-messages-bar{
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
-
