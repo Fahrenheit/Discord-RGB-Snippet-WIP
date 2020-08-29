@@ -46,13 +46,15 @@
 
 
 /*CHAT*/
-.anchorUnderlineOnHover-2ESHQB {
+.anchorUnderlineOnHover-2ESHQB, .content-1o0f9g, .username-1A8OIy {
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
 /*CHAT TITLE BAR*/ 
-.icon-22AiRD, .icon-22AiRD, .size16-1P40sf {
-    animation: rainbow-rgb 10s ease-in-out infinite; 
+.icon-22AiRD, .icon-22AiRD, .size16-1P40sf, .topic-TCb_qw {
+    animation: rainbow-rgb 10s ease-in-out infinite; }
+.divider-3FBTu8{
+animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
 /*SETTINGS*/
