@@ -110,6 +110,15 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb 10s ease-in-out infinite;
 }
 
+/*CHANNEL/CATEGORY SETTINGS*/
+.keybind-KpFkfr, .tools-3-3s-N, .container-1sFeqf, .closeButton-1tv5uR, .header-2RyJ0Y {
+    animation: rainbow-rgb 10s ease-in-out infinite;
+}
+.separator-gCa7yv, .divider-3573oO{
+    animation: rainbow-rgb-bg 10s ease-in-out infinite;
+}
+
+
 /* FIX RGB DESYNC WITH THESE */
  /*.numberBadge-2s8kKX, .base-PmTxvP,*/ .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
