@@ -1,3 +1,14 @@
+/*Animated Gradient Bars (Top/Bottom) - Thanks to .þsϵυdø.þrø×϶n#0007 for the ideaa*/
+body {
+    padding-top: 2px;
+    animation: rainbow-rgb-bg 7s ease-in-out infinite;
+      backdrop-filter: blur(1px) brightness(0.5);   
+ }
+ 
+ #app-mount {
+    height: calc(100% - 6px);
+ }
+ 
 @keyframes rainbow-rgb {
     from {color: #6666ff;}
     10%  {color: #0099ff;}
@@ -5,9 +16,6 @@
     75%  {color: #ff3399;}
     100% {color: #6666ff;}
 }
-
-
-
 
 @keyframes rainbow-rgb-bg {
     from {background-color: #6666ff;}
@@ -110,3 +118,4 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
  /*.numberBadge-2s8kKX, .base-PmTxvP, .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
 }*/
+

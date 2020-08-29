@@ -1,8 +1,15 @@
 
 
-.nameTag-2IFDfL, .nameTag-m8r81H, .username-2b1r56, .username-3gJmXY, .discriminator-xUhQkU, .headerTagNoNickname-ENx6no, .headerTag-2pZJzA, .size14-3iUx6q, .size16-14cGz5, .nameTag-m8r81H {
- animation: rainbow-rgb 10s ease-in-out infinite; 
-}
+/*Animated Gradient Bars (Top/Bottom) - Thanks to .þsϵυdø.þrø×϶n#0007 for the ideaa*/
+body {
+    padding-top: 2px;
+    animation: rainbow-rgb-bg 7s ease-in-out infinite;
+      backdrop-filter: blur(1px) brightness(0.5);   
+ }
+ 
+ #app-mount {
+    height: calc(100% - 6px);
+ }
 
 @keyframes rainbow-rgb {
     from {color: #6666ff;}
@@ -11,10 +18,6 @@
     75%  {color: #ff3399;}
     100% {color: #6666ff;}
 }
-
-
-
-
 @keyframes rainbow-rgb-bg {
     from {background-color: #6666ff;}
     10% {background-color: #0099ff;}
@@ -22,6 +25,10 @@
     75% {background-color: #ff3399;}
     100% {background-color: #6666ff;}
 }
+
+.nameTag-2IFDfL, .nameTag-m8r81H, .username-2b1r56, .username-3gJmXY, .discriminator-xUhQkU, .headerTagNoNickname-ENx6no, .headerTag-2pZJzA, .size14-3iUx6q, .size16-14cGz5, .nameTag-m8r81H {
+    animation: rainbow-rgb 10s ease-in-out infinite; 
+   }   
 
 /* BOTTOM LEFT MODAL RGB*/
 .powercord-spotify .spotify-seek-bar-progress {
