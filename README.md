@@ -1,6 +1,6 @@
 # Discord-RGB-Snippet-WIP
  A work in progress Discord CSS Chroma RGB theme. (Has Powercord UI element support)
-
+ The theme has an animated gradient bar at the top and the bottom of the window as
 
 ## Installation
 I have 2 versions. One where most text outside chat is RGB however it can get a bit laggy as css has some sort of memory leak when it comes to animations looping.
