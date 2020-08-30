@@ -3,7 +3,7 @@
     "description": "A work in progress Discord CSS Chroma RGB theme. (Has Powercord UI element support)",
     "version": "1.0",
     "author": "Fahrenheight#0001",
-    "theme": "Discord-RGB.css",
+    "theme": "Discord-RGB-No-Text-Theming.css",
     "consent": "false",
     "license": "MIT"
 }
