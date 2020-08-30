@@ -14,10 +14,10 @@
     100% {background-color: #6666ff;}
 }
 
-/*ACTIVITY SCREEN*/
+/*ACTIVITY SCREEN KEPT OFF FOR NOW UNTIL FINISHED
 .linkButtonIcon-Mlm5d6, .closeIcon-rycxaQ, .icon-35-fSh {
     animation: rainbow-rgb 10s ease-in-out infinite;
-}
+}*/
 
 /* BOTTOM LEFT MODAL RGB*/
 .powercord-spotify .spotify-seek-bar-progress {
