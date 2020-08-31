@@ -106,8 +106,11 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
 /* POPOUTS */
-.iconContainer-2-XQPY, .button-1ZiXG9, .icon-LYJorE{
+.iconContainer-2-XQPY, .button-1ZiXG9, .icon-LYJorE, .additionalActionsIcon-1FoUlE {
     animation: rainbow-rgb 10s ease-in-out infinite;
+}
+.barInner-3NDaY_{
+    animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
 /* SHORTCUT HELP MENU */
