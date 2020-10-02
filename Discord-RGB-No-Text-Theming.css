@@ -16,7 +16,6 @@ body {
     75%  {color: #ff3399;}
     100% {color: #6666ff;}
 }
-
 @keyframes rainbow-rgb-bg {
     from {background-color: #6666ff;}
     10% {background-color: #0099ff;}
@@ -134,6 +133,21 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb 10s ease-in-out infinite;
 }*/
 
-
-
-
+.avatarSpeaking-3MqCHL {
+    box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);
+    animation: boxshadow 3s linear infinite;
+}
+@keyframes boxshadow {
+    0%, 100% {
+        box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);;
+    }
+    25% {
+        box-shadow: inset 0 0 0 2px lime,inset 0 0 0 3px var(--background-secondary);;;
+    }
+    50% {
+       box-shadow: inset 0 0 0 2px yellow,inset 0 0 0 3px var(--background-secondary);;; 
+    }
+    75% {
+        box-shadow: inset 0 0 0 2px red,inset 0 0 0 3px var(--background-secondary);;;
+    }
+}
