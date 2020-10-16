@@ -69,10 +69,10 @@ body {
 animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
-/*SETTINGS*/
+/*SETTINGS
  {
     animation: rainbow-rgb 10s ease-in-out infinite;
-}
+}*/
 
 /* MEMBER LIST*/
  .icon-15YQ1T, .icon-1A2_vz{
@@ -132,6 +132,12 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
  /*.numberBadge-2s8kKX, .base-PmTxvP, .actionIcon-2Hi9ZG {
     animation: rainbow-rgb 10s ease-in-out infinite;
 }*/
+
+/*Code Blocks (Thanks to spooky snapper#0001*/
+.powercord-codeblock-table > tr > td:nth-child(1) {
+    animation: rainbow-rgb 5s ease-in-out infinite;
+  }
+
 
 .avatarSpeaking-3MqCHL {
     box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);
