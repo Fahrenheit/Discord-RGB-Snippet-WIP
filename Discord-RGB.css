@@ -149,6 +149,10 @@ animation: rainbow-rgb-bg 10s ease-in-out infinite;
     animation: rainbow-rgb-bg 10s ease-in-out infinite;
 }
 
+/*Code Blocks (Thanks to spooky snapper#0001*/
+.powercord-codeblock-table > tr > td:nth-child(1) {
+    animation: rainbow-rgb 5s ease-in-out infinite;
+  }
 
 .avatarSpeaking-3MqCHL {
     box-shadow: inset 0 0 0 2px cyan,inset 0 0 0 3px var(--background-secondary);
